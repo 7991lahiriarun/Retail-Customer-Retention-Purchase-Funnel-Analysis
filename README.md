@@ -53,5 +53,5 @@ Channel is a customer acquisition attribute; it is not session campaign attribut
 ## Validation and limitations
 The runner tests referential integrity, database integrity, cohort bounds, observable cohort count, funnel monotonicity and independent Python checks of the SQL outputs. Duplicate view events are deliberately included; cancelled purchase events also occur. These validate deduplication and order-status handling.
 
-The simulated mobile purchase probability is deliberately lower than desktop. Do not present this as evidence about real retail consumers. Do not claim that a recommendation increased retention or reduced abandonment: no intervention was tested.
+The simulated mobile purchase probability is deliberately lower than desktop. 
 
