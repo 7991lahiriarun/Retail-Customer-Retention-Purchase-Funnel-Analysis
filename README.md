@@ -1,6 +1,10 @@
 # Retail-Customer-Retention-Purchase-Funnel-Analysis
 A complete SQL portfolio project using fictional online retail activity. All data is synthetic, reproducible with seed 42, and unrelated to any employer or client.
 
+# Project Link:
+
+https://retention-funnel-lab-arunabha.finespark32.chatgpt.site
+
 ## Business problem
 An online retailer wants to understand two questions:
 1. After their first completed purchase, do customers return to buy in later months?
